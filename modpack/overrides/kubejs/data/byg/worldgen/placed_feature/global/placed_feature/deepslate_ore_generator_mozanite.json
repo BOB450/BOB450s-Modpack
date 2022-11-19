@@ -1,0 +1,30 @@
+{
+  "feature": "modern_industrialization:deepslate_ore_generator_mozanite",
+  "placement": [
+    {
+      "count": 2,
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "height": {
+        "min_inclusive": {
+          "above_bottom": 0
+        },
+        "max_inclusive": {
+          "absolute": 24
+        },
+        "type": "minecraft:uniform"
+      },
+      "type": "minecraft:height_range"
+    },
+    {
+      "valid_dimensions": [
+        "minecraft:overworld"
+      ],
+      "type": "byg:is_dimension_filter"
+    }
+  ]
+}

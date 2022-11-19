@@ -1,0 +1,2971 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.10",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "0.1.0",
+  "author": "TeamAOF",
+  "name": "all-of-fabric-6",
+  "files": [
+    {
+      "projectID": 60089,
+      "fileID": 3828448,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 223794,
+      "fileID": 4055594,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2"
+      }
+    },
+    {
+      "projectID": 224713,
+      "fileID": 3859566,
+      "required": true,
+      "__meta": {
+        "name": "Bow Infinity Fix (Forge/Fabric)"
+      }
+    },
+    {
+      "projectID": 225738,
+      "fileID": 3843103,
+      "required": true,
+      "__meta": {
+        "name": "MmmMmmMmmMmm (Target Dummy)"
+      }
+    },
+    {
+      "projectID": 227639,
+      "fileID": 4086723,
+      "required": true,
+      "__meta": {
+        "name": "The Twilight Forest"
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 4052855,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
+      "projectID": 233564,
+      "fileID": 3958646,
+      "required": true,
+      "__meta": {
+        "name": "Tech Reborn",
+        "dependencies": [
+          237903
+        ]
+      }
+    },
+    {
+      "projectID": 237903,
+      "fileID": 3958647,
+      "required": true,
+      "__meta": {
+        "name": "Reborn Core"
+      }
+    },
+    {
+      "projectID": 238086,
+      "fileID": 4085692,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS",
+        "dependencies": [
+          306612,
+          557735,
+          416294,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 242195,
+      "fileID": 4056389,
+      "required": true,
+      "__meta": {
+        "name": "Dark Utilities",
+        "dependencies": [
+          228525,
+          396234,
+          393149
+        ]
+      }
+    },
+    {
+      "projectID": 247357,
+      "fileID": 4046633,
+      "required": true,
+      "__meta": {
+        "name": "Extra Alchemy",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3927567,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050342,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 250419,
+      "fileID": 4047041,
+      "required": true,
+      "__meta": {
+        "name": "Enchantment Descriptions",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 252848,
+      "fileID": 3923745,
+      "required": true,
+      "__meta": {
+        "name": "Nature's Compass"
+      }
+    },
+    {
+      "projectID": 254284,
+      "fileID": 4086281,
+      "required": true,
+      "__meta": {
+        "name": "AmbientSounds 5",
+        "dependencies": [
+          257814
+        ]
+      }
+    },
+    {
+      "projectID": 255105,
+      "fileID": 3943047,
+      "required": true,
+      "__meta": {
+        "name": "Friendly Fire",
+        "dependencies": [
+          228525,
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 256087,
+      "fileID": 3937913,
+      "required": true,
+      "__meta": {
+        "name": "Notes"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3950215,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 257814,
+      "fileID": 4095243,
+      "required": true,
+      "__meta": {
+        "name": "CreativeCore"
+      }
+    },
+    {
+      "projectID": 261251,
+      "fileID": 4090813,
+      "required": true,
+      "__meta": {
+        "name": "Bad Wither No Cookie - Reloaded"
+      }
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3940455,
+      "required": true,
+      "__meta": {
+        "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 273279,
+      "fileID": 3907240,
+      "required": true,
+      "__meta": {
+        "name": "AntiGhost"
+      }
+    },
+    {
+      "projectID": 277668,
+      "fileID": 3845615,
+      "required": true,
+      "__meta": {
+        "name": "Armor Sound Tweak"
+      }
+    },
+    {
+      "projectID": 280510,
+      "fileID": 3963621,
+      "required": true,
+      "__meta": {
+        "name": "AttributeFix"
+      }
+    },
+    {
+      "projectID": 281993,
+      "fileID": 4019894,
+      "required": true,
+      "__meta": {
+        "name": "SlimyBoyos",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 284324,
+      "fileID": 4056367,
+      "required": true,
+      "__meta": {
+        "name": "Emojiful"
+      }
+    },
+    {
+      "projectID": 291936,
+      "fileID": 3910004,
+      "required": true,
+      "__meta": {
+        "name": "FindMe",
+        "dependencies": [
+          419699,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 306549,
+      "fileID": 4068907,
+      "required": true,
+      "__meta": {
+        "name": "Tips",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4073289,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API"
+      }
+    },
+    {
+      "projectID": 308702,
+      "fileID": 4066826,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu"
+      }
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4075244,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Language Kotlin"
+      }
+    },
+    {
+      "projectID": 309674,
+      "fileID": 4055378,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters",
+        "dependencies": [
+          419699,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 310111,
+      "fileID": 4082318,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Items Fabric/Forge (REI)",
+        "dependencies": [
+          419699,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 311120,
+      "fileID": 3912405,
+      "required": true,
+      "__meta": {
+        "name": "Couplings"
+      }
+    },
+    {
+      "projectID": 314579,
+      "fileID": 3972616,
+      "required": true,
+      "__meta": {
+        "name": "Crawl (Fabric)"
+      }
+    },
+    {
+      "projectID": 315811,
+      "fileID": 4054090,
+      "required": true,
+      "__meta": {
+        "name": "ShulkerBoxTooltip [Fabric/Forge]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 317121,
+      "fileID": 3853858,
+      "required": true,
+      "__meta": {
+        "name": "Cloth API (Fabric)"
+      }
+    },
+    {
+      "projectID": 317756,
+      "fileID": 4031460,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Hammers",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 318449,
+      "fileID": 3954769,
+      "required": true,
+      "__meta": {
+        "name": "Cardinal Components"
+      }
+    },
+    {
+      "projectID": 319582,
+      "fileID": 3830803,
+      "required": true,
+      "__meta": {
+        "name": "Respawnable Pets",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 319596,
+      "fileID": 4059310,
+      "required": true,
+      "__meta": {
+        "name": "Pehkui",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 325471,
+      "fileID": 3885990,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Sorting"
+      }
+    },
+    {
+      "projectID": 325492,
+      "fileID": 3832013,
+      "required": true,
+      "__meta": {
+        "name": "Light Overlay (Rift/Forge/Fabric)",
+        "dependencies": [
+          348521,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 325625,
+      "fileID": 3837336,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Resources",
+        "dependencies": [
+          348521,
+          310111
+        ]
+      }
+    },
+    {
+      "projectID": 331723,
+      "fileID": 4022326,
+      "required": true,
+      "__meta": {
+        "name": "Bamboo Everything (Forge/Fabric)",
+        "dependencies": [
+          306612,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 334853,
+      "fileID": 4076568,
+      "required": true,
+      "__meta": {
+        "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+        "dependencies": [
+          348521,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 335493,
+      "fileID": 3829250,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic FPS",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 341284,
+      "fileID": 3820928,
+      "required": true,
+      "__meta": {
+        "name": "Trinkets (Fabric)"
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972420,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 349938,
+      "fileID": 3838824,
+      "required": true,
+      "__meta": {
+        "name": "BLAST 💣",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 350464,
+      "fileID": 4067923,
+      "required": true,
+      "__meta": {
+        "name": "Chimes",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 351725,
+      "fileID": 4018299,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 352039,
+      "fileID": 4028402,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Roofs",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 353928,
+      "fileID": 4077365,
+      "required": true,
+      "__meta": {
+        "name": "Botany Pots",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 356643,
+      "fileID": 4021907,
+      "required": true,
+      "__meta": {
+        "name": "Auth Me",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 357540,
+      "fileID": 3903460,
+      "required": true,
+      "__meta": {
+        "name": "Inventory HUD+"
+      }
+    },
+    {
+      "projectID": 358304,
+      "fileID": 4075314,
+      "required": true,
+      "__meta": {
+        "name": "Login Protection[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 360438,
+      "fileID": 4077220,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
+      "projectID": 361579,
+      "fileID": 4057112,
+      "required": true,
+      "__meta": {
+        "name": "spark"
+      }
+    },
+    {
+      "projectID": 362528,
+      "fileID": 3941637,
+      "required": true,
+      "__meta": {
+        "name": "Decorative Blocks"
+      }
+    },
+    {
+      "projectID": 362669,
+      "fileID": 4008788,
+      "required": true,
+      "__meta": {
+        "name": "Quick Shulker"
+      }
+    },
+    {
+      "projectID": 363949,
+      "fileID": 4094594,
+      "required": true,
+      "__meta": {
+        "name": "The Bumblezone (Quilt/Fabric)",
+        "dependencies": [
+          306612,
+          488090
+        ]
+      }
+    },
+    {
+      "projectID": 364426,
+      "fileID": 3926945,
+      "required": true,
+      "__meta": {
+        "name": "Survival island"
+      }
+    },
+    {
+      "projectID": 365521,
+      "fileID": 3550632,
+      "required": true,
+      "__meta": {
+        "name": "Pling"
+      }
+    },
+    {
+      "projectID": 369254,
+      "fileID": 4031400,
+      "required": true,
+      "__meta": {
+        "name": "Inmis",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 370890,
+      "fileID": 4035526,
+      "required": true,
+      "__meta": {
+        "name": "Just Another Void Dimension",
+        "dependencies": [
+          306612,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 371033,
+      "fileID": 4063269,
+      "required": true,
+      "__meta": {
+        "name": "Rotten Creatures"
+      }
+    },
+    {
+      "projectID": 373138,
+      "fileID": 4089061,
+      "required": true,
+      "__meta": {
+        "name": "Campanion",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 373591,
+      "fileID": 4031205,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Mineshafts (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 373774,
+      "fileID": 3854070,
+      "required": true,
+      "__meta": {
+        "name": "Rare Ice (Forge/Fabric)"
+      }
+    },
+    {
+      "projectID": 375969,
+      "fileID": 3853629,
+      "required": true,
+      "__meta": {
+        "name": "Wolves With Armor",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 377051,
+      "fileID": 3943017,
+      "required": true,
+      "__meta": {
+        "name": "Bed Benefits",
+        "dependencies": [
+          228525,
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 377109,
+      "fileID": 3944167,
+      "required": true,
+      "__meta": {
+        "name": "Tool Stats",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 377313,
+      "fileID": 3944259,
+      "required": true,
+      "__meta": {
+        "name": "Trample No More",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 377548,
+      "fileID": 4058524,
+      "required": true,
+      "__meta": {
+        "name": "Stronger Snowballs"
+      }
+    },
+    {
+      "projectID": 378646,
+      "fileID": 3930984,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Doors",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 380393,
+      "fileID": 3943114,
+      "required": true,
+      "__meta": {
+        "name": "'Slight' Gui Modifications",
+        "dependencies": [
+          317121,
+          348521,
+          419699,
+          306612,
+          463113
+        ]
+      }
+    },
+    {
+      "projectID": 380548,
+      "fileID": 3921830,
+      "required": true,
+      "__meta": {
+        "name": "River Redux",
+        "dependencies": [
+          565956,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 388172,
+      "fileID": 4086233,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 388832,
+      "fileID": 4023631,
+      "required": true,
+      "__meta": {
+        "name": "Kibe Utilities",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 390991,
+      "fileID": 4061649,
+      "required": true,
+      "__meta": {
+        "name": "AdventureZ",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 391366,
+      "fileID": 3857189,
+      "required": true,
+      "__meta": {
+        "name": "Repurposed Structures (Quilt/Fabric)",
+        "dependencies": [
+          306612,
+          488090,
+          488090,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 391378,
+      "fileID": 4027262,
+      "required": true,
+      "__meta": {
+        "name": "Oh The Biomes You'll Go Refabricated",
+        "dependencies": [
+          565956
+        ]
+      }
+    },
+    {
+      "projectID": 391708,
+      "fileID": 4020957,
+      "required": true,
+      "__meta": {
+        "name": "Industrial Revolution",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 392805,
+      "fileID": 3950652,
+      "required": true,
+      "__meta": {
+        "name": "CleanCut"
+      }
+    },
+    {
+      "projectID": 393149,
+      "fileID": 3963628,
+      "required": true,
+      "__meta": {
+        "name": "Runelic",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 393236,
+      "fileID": 4031404,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli (Fabric/Quilt)"
+      }
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3957319,
+      "required": true,
+      "__meta": {
+        "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 394915,
+      "fileID": 4048571,
+      "required": true,
+      "__meta": {
+        "name": "Bewitchment",
+        "dependencies": [
+          393236,
+          341284,
+          306612,
+          319596
+        ]
+      }
+    },
+    {
+      "projectID": 395272,
+      "fileID": 3970552,
+      "required": true,
+      "__meta": {
+        "name": "Tiny Coal",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 395547,
+      "fileID": 3927423,
+      "required": true,
+      "__meta": {
+        "name": "Charm of Undying (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 396234,
+      "fileID": 3943073,
+      "required": true,
+      "__meta": {
+        "name": "Pig Pen Cipher"
+      }
+    },
+    {
+      "projectID": 397903,
+      "fileID": 3929278,
+      "required": true,
+      "__meta": {
+        "name": "Elytra Slot (Fabric)",
+        "dependencies": [
+          341284,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 398502,
+      "fileID": 3927554,
+      "required": true,
+      "__meta": {
+        "name": "Cherished Worlds (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 400619,
+      "fileID": 4077255,
+      "required": true,
+      "__meta": {
+        "name": "Dank Storage Fabric"
+      }
+    },
+    {
+      "projectID": 400929,
+      "fileID": 3831994,
+      "required": true,
+      "__meta": {
+        "name": "cAn i MiNe thIS bLOCk?"
+      }
+    },
+    {
+      "projectID": 400933,
+      "fileID": 3923125,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Trapdoors",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 401236,
+      "fileID": 3843992,
+      "required": true,
+      "__meta": {
+        "name": "Artifacts (Fabric)",
+        "dependencies": [
+          348521,
+          306612,
+          341284
+        ]
+      }
+    },
+    {
+      "projectID": 401978,
+      "fileID": 3827588,
+      "required": true,
+      "__meta": {
+        "name": "[FABRIC/QUILT] Disable Custom Worlds Advice"
+      }
+    },
+    {
+      "projectID": 402616,
+      "fileID": 3922677,
+      "required": true,
+      "__meta": {
+        "name": "Brazier",
+        "dependencies": [
+          419699,
+          419699,
+          348521,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 403914,
+      "fileID": 3846150,
+      "required": true,
+      "__meta": {
+        "name": "Red Bits"
+      }
+    },
+    {
+      "projectID": 405388,
+      "fileID": 4082446,
+      "required": true,
+      "__meta": {
+        "name": "Modern Industrialization",
+        "dependencies": [
+          348521,
+          310111,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 406343,
+      "fileID": 4018586,
+      "required": true,
+      "__meta": {
+        "name": "Better Ping Display [Fabric]"
+      }
+    },
+    {
+      "projectID": 408118,
+      "fileID": 3962125,
+      "required": true,
+      "__meta": {
+        "name": "megane",
+        "dependencies": [
+          440979
+        ]
+      }
+    },
+    {
+      "projectID": 410902,
+      "fileID": 4024931,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Waystones",
+        "dependencies": [
+          532610,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 411357,
+      "fileID": 3972028,
+      "required": true,
+      "__meta": {
+        "name": "Botany Trees",
+        "dependencies": [
+          228525,
+          228525,
+          353928
+        ]
+      }
+    },
+    {
+      "projectID": 411400,
+      "fileID": 4088548,
+      "required": true,
+      "__meta": {
+        "name": "MedievalWeapons",
+        "dependencies": [
+          306612,
+          348521,
+          463113
+        ]
+      }
+    },
+    {
+      "projectID": 411557,
+      "fileID": 4087782,
+      "required": true,
+      "__meta": {
+        "name": "ToolTipFix"
+      }
+    },
+    {
+      "projectID": 412082,
+      "fileID": 4091576,
+      "required": true,
+      "__meta": {
+        "name": "Supplementaries",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
+      "projectID": 412182,
+      "fileID": 4077419,
+      "required": true,
+      "__meta": {
+        "name": "Biome Makeover",
+        "dependencies": [
+          306612,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 412225,
+      "fileID": 4026103,
+      "required": true,
+      "__meta": {
+        "name": "Harvest Scythes"
+      }
+    },
+    {
+      "projectID": 415438,
+      "fileID": 4046720,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia"
+      }
+    },
+    {
+      "projectID": 415681,
+      "fileID": 4095088,
+      "required": true,
+      "__meta": {
+        "name": "Connectible Chains [Fabric]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 416294,
+      "fileID": 4085694,
+      "required": true,
+      "__meta": {
+        "name": "Rhino"
+      }
+    },
+    {
+      "projectID": 418881,
+      "fileID": 4031245,
+      "required": true,
+      "__meta": {
+        "name": "Paxi (Fabric)",
+        "dependencies": [
+          421649
+        ]
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4040976,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 421649,
+      "fileID": 4035003,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 422316,
+      "fileID": 3345570,
+      "required": true,
+      "__meta": {
+        "name": "Advancements Debug"
+      }
+    },
+    {
+      "projectID": 423421,
+      "fileID": 3974481,
+      "required": true,
+      "__meta": {
+        "name": "Jump Over Fences"
+      }
+    },
+    {
+      "projectID": 424480,
+      "fileID": 3951137,
+      "required": true,
+      "__meta": {
+        "name": "DragonLoot",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 431135,
+      "fileID": 3956142,
+      "required": true,
+      "__meta": {
+        "name": "Go Fish",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 433518,
+      "fileID": 3821870,
+      "required": true,
+      "__meta": {
+        "name": "LazyDFU"
+      }
+    },
+    {
+      "projectID": 437712,
+      "fileID": 4071249,
+      "required": true,
+      "__meta": {
+        "name": "More Geodes",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 438116,
+      "fileID": 3923001,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Paintings",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 438365,
+      "fileID": 4019441,
+      "required": true,
+      "__meta": {
+        "name": "Bosses of Mass Destruction",
+        "dependencies": [
+          318449,
+          306612,
+          388172,
+          348521,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 438495,
+      "fileID": 4076617,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Fabric)",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 438496,
+      "fileID": 4075704,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Fabric)",
+        "dependencies": [
+          419699,
+          309674,
+          306612,
+          438497,
+          438495
+        ]
+      }
+    },
+    {
+      "projectID": 438497,
+      "fileID": 3963572,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Fabric)",
+        "dependencies": [
+          306612,
+          438495,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 440979,
+      "fileID": 4090702,
+      "required": true,
+      "__meta": {
+        "name": "WTHIT",
+        "dependencies": [
+          615134,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 443591,
+      "fileID": 4094192,
+      "required": true,
+      "__meta": {
+        "name": "[Fabric/Forge] Market Crates (1.15 to 1.19)"
+      }
+    },
+    {
+      "projectID": 445838,
+      "fileID": 3930081,
+      "required": true,
+      "__meta": {
+        "name": "Animal Feeding Trough [Fabric | Forge | Quilt]",
+        "dependencies": [
+          419699,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 448231,
+      "fileID": 3993548,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ultimine (Fabric)",
+        "dependencies": [
+          419699,
+          438495,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3823508,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
+      }
+    },
+    {
+      "projectID": 450659,
+      "fileID": 3975514,
+      "required": true,
+      "__meta": {
+        "name": "Small Ships [Fabric & Forge]"
+      }
+    },
+    {
+      "projectID": 452834,
+      "fileID": 4070436,
+      "required": true,
+      "__meta": {
+        "name": "RightClickHarvest",
+        "dependencies": [
+          306612,
+          623764
+        ]
+      }
+    },
+    {
+      "projectID": 453925,
+      "fileID": 3923129,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Fences and Walls",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 455508,
+      "fileID": 4095268,
+      "required": true,
+      "__meta": {
+        "name": "Iris Shaders",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 456137,
+      "fileID": 3929814,
+      "required": true,
+      "__meta": {
+        "name": "Void Totem (Fabric)",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 459496,
+      "fileID": 3957480,
+      "required": true,
+      "__meta": {
+        "name": "Indium",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 459857,
+      "fileID": 3824694,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Fabric)"
+      }
+    },
+    {
+      "projectID": 459929,
+      "fileID": 4062173,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "dependencies": [
+          223794,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 460336,
+      "fileID": 3819692,
+      "required": true,
+      "__meta": {
+        "name": "Stoneholm, Underground Villages (Fabric)",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 462672,
+      "fileID": 3908334,
+      "required": true,
+      "__meta": {
+        "name": "CC: Restitched"
+      }
+    },
+    {
+      "projectID": 463113,
+      "fileID": 3901211,
+      "required": true,
+      "__meta": {
+        "name": "ARRP"
+      }
+    },
+    {
+      "projectID": 466902,
+      "fileID": 4068718,
+      "required": true,
+      "__meta": {
+        "name": "More Bows: Restrung!",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 468908,
+      "fileID": 3919428,
+      "required": true,
+      "__meta": {
+        "name": "Dusk[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 470193,
+      "fileID": 3911352,
+      "required": true,
+      "__meta": {
+        "name": "Connectivity[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 472657,
+      "fileID": 3981375,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Fabric)",
+        "dependencies": [
+          438497,
+          419699,
+          306612,
+          438495
+        ]
+      }
+    },
+    {
+      "projectID": 473131,
+      "fileID": 3857552,
+      "required": true,
+      "__meta": {
+        "name": "Builtin Servers",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 473508,
+      "fileID": 3819689,
+      "required": true,
+      "__meta": {
+        "name": "Grim's Transportables",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 475358,
+      "fileID": 4023319,
+      "required": true,
+      "__meta": {
+        "name": "Better Mount HUD"
+      }
+    },
+    {
+      "projectID": 478843,
+      "fileID": 3823512,
+      "required": true,
+      "__meta": {
+        "name": "Impaled 🔱",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 480684,
+      "fileID": 4031215,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Fabric)",
+        "dependencies": [
+          348521,
+          306612,
+          421649
+        ]
+      }
+    },
+    {
+      "projectID": 482621,
+      "fileID": 3908792,
+      "required": true,
+      "__meta": {
+        "name": "Nears [Fabric]"
+      }
+    },
+    {
+      "projectID": 482731,
+      "fileID": 4025816,
+      "required": true,
+      "__meta": {
+        "name": "Nyf's Quivers"
+      }
+    },
+    {
+      "projectID": 482834,
+      "fileID": 4061213,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight [Fabric]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 486080,
+      "fileID": 3843501,
+      "required": true,
+      "__meta": {
+        "name": "More Villagers [Fabric]"
+      }
+    },
+    {
+      "projectID": 486778,
+      "fileID": 3840829,
+      "required": true,
+      "__meta": {
+        "name": "Fix Experience Bug (now with FABRIC and FORGE versions)"
+      }
+    },
+    {
+      "projectID": 488090,
+      "fileID": 4059589,
+      "required": true,
+      "__meta": {
+        "name": "MidnightLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 489631,
+      "fileID": 3954147,
+      "required": true,
+      "__meta": {
+        "name": "FuelInfo",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495453,
+      "fileID": 3515755,
+      "required": true,
+      "__meta": {
+        "name": "Axolotl Bucket Fix",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495509,
+      "fileID": 4085261,
+      "required": true,
+      "__meta": {
+        "name": "Spirit",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 498794,
+      "fileID": 4085654,
+      "required": true,
+      "__meta": {
+        "name": "Iron Chests: Restocked"
+      }
+    },
+    {
+      "projectID": 499980,
+      "fileID": 4091548,
+      "required": true,
+      "__meta": {
+        "name": "Moonlight Lib"
+      }
+    },
+    {
+      "projectID": 500525,
+      "fileID": 3913965,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Fabric Edition)",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 501456,
+      "fileID": 3824094,
+      "required": true,
+      "__meta": {
+        "name": "Villager Hats Mod",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 502372,
+      "fileID": 3923135,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Lights and Lamps",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 502516,
+      "fileID": 3914006,
+      "required": true,
+      "__meta": {
+        "name": "Crafting Tweaks (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 502646,
+      "fileID": 3833576,
+      "required": true,
+      "__meta": {
+        "name": "CraftingCraft (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 504899,
+      "fileID": 4015317,
+      "required": true,
+      "__meta": {
+        "name": "DeepslateCutting",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 506759,
+      "fileID": 3833517,
+      "required": true,
+      "__meta": {
+        "name": "Fertilization (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 508695,
+      "fileID": 3831061,
+      "required": true,
+      "__meta": {
+        "name": "VillagerTradeFix",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 510262,
+      "fileID": 3967493,
+      "required": true,
+      "__meta": {
+        "name": "XP Obelisk"
+      }
+    },
+    {
+      "projectID": 511319,
+      "fileID": 3946216,
+      "required": true,
+      "__meta": {
+        "name": "Reese's Sodium Options",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 511812,
+      "fileID": 3854946,
+      "required": true,
+      "__meta": {
+        "name": "When Dungeons Arise - Fabric!",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 514041,
+      "fileID": 3420901,
+      "required": true,
+      "__meta": {
+        "name": "Colorful Subtitles"
+      }
+    },
+    {
+      "projectID": 514468,
+      "fileID": 4092650,
+      "required": true,
+      "__meta": {
+        "name": "The Graveyard (FABRIC)",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 514882,
+      "fileID": 3949457,
+      "required": true,
+      "__meta": {
+        "name": "Advancement Plaques [Fabric]",
+        "dependencies": [
+          539382,
+          547434
+        ]
+      }
+    },
+    {
+      "projectID": 514923,
+      "fileID": 3994389,
+      "required": true,
+      "__meta": {
+        "name": "Tempad"
+      }
+    },
+    {
+      "projectID": 517418,
+      "fileID": 3956408,
+      "required": true,
+      "__meta": {
+        "name": "Nikolite Expansion",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 517791,
+      "fileID": 4023183,
+      "required": true,
+      "__meta": {
+        "name": "Display Case",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 520367,
+      "fileID": 4019432,
+      "required": true,
+      "__meta": {
+        "name": "Effect Tooltips"
+      }
+    },
+    {
+      "projectID": 521126,
+      "fileID": 4092154,
+      "required": true,
+      "__meta": {
+        "name": "Visuality",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 521783,
+      "fileID": 3835973,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Fabric)"
+      }
+    },
+    {
+      "projectID": 523327,
+      "fileID": 3941958,
+      "required": true,
+      "__meta": {
+        "name": "Savage Ender Dragon[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 525586,
+      "fileID": 4031673,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 531351,
+      "fileID": 3927270,
+      "required": true,
+      "__meta": {
+        "name": "Continuity",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 532610,
+      "fileID": 4028921,
+      "required": true,
+      "__meta": {
+        "name": "oωo (owo-lib)"
+      }
+    },
+    {
+      "projectID": 535541,
+      "fileID": 3855436,
+      "required": true,
+      "__meta": {
+        "name": "Chalk (Fabric)"
+      }
+    },
+    {
+      "projectID": 539382,
+      "fileID": 3922111,
+      "required": true,
+      "__meta": {
+        "name": "Iceberg [Fabric]"
+      }
+    },
+    {
+      "projectID": 539957,
+      "fileID": 4018063,
+      "required": true,
+      "__meta": {
+        "name": "Archeology Mod",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 541171,
+      "fileID": 4081454,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Backpack [Fabric]",
+        "dependencies": [
+          318449,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 541329,
+      "fileID": 3848278,
+      "required": true,
+      "__meta": {
+        "name": "Equipment Compare [Fabric]",
+        "dependencies": [
+          306612,
+          306612,
+          539382
+        ]
+      }
+    },
+    {
+      "projectID": 542478,
+      "fileID": 3998293,
+      "required": true,
+      "__meta": {
+        "name": "Legendary Tooltips [Fabric]",
+        "dependencies": [
+          539382,
+          306612,
+          665526,
+          547434
+        ]
+      }
+    },
+    {
+      "projectID": 544671,
+      "fileID": 4077318,
+      "required": true,
+      "__meta": {
+        "name": "Portable Tables"
+      }
+    },
+    {
+      "projectID": 544912,
+      "fileID": 4063036,
+      "required": true,
+      "__meta": {
+        "name": "You're in Grave Danger",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 547358,
+      "fileID": 4049590,
+      "required": true,
+      "__meta": {
+        "name": "WMITAF"
+      }
+    },
+    {
+      "projectID": 547434,
+      "fileID": 3960064,
+      "required": true,
+      "__meta": {
+        "name": "Forge Config API Port",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 547689,
+      "fileID": 3835114,
+      "required": true,
+      "__meta": {
+        "name": "TrashSlot (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547692,
+      "fileID": 3901913,
+      "required": true,
+      "__meta": {
+        "name": "Client Tweaks (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547694,
+      "fileID": 3832591,
+      "required": true,
+      "__meta": {
+        "name": "Default Options (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547695,
+      "fileID": 3927983,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547696,
+      "fileID": 3832620,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547699,
+      "fileID": 3832520,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Essentials (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547881,
+      "fileID": 4056165,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Netherite [FABRIC]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 552758,
+      "fileID": 3995925,
+      "required": true,
+      "__meta": {
+        "name": "Modern Dynamics",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 554340,
+      "fileID": 3912708,
+      "required": true,
+      "__meta": {
+        "name": "Catwalks Inc.",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 554586,
+      "fileID": 3901906,
+      "required": true,
+      "__meta": {
+        "name": "Farming for Blockheads (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 556967,
+      "fileID": 4020832,
+      "required": true,
+      "__meta": {
+        "name": "Spectrum",
+        "dependencies": [
+          306612,
+          393236,
+          532610,
+          348521,
+          656526,
+          341284
+        ]
+      }
+    },
+    {
+      "projectID": 557735,
+      "fileID": 4023288,
+      "required": true,
+      "__meta": {
+        "name": "Ingredient Extension API"
+      }
+    },
+    {
+      "projectID": 560091,
+      "fileID": 3857252,
+      "required": true,
+      "__meta": {
+        "name": "Towers of the Wild: Additions"
+      }
+    },
+    {
+      "projectID": 560657,
+      "fileID": 3913685,
+      "required": true,
+      "__meta": {
+        "name": "Mob Scarecrows"
+      }
+    },
+    {
+      "projectID": 560975,
+      "fileID": 4055252,
+      "required": true,
+      "__meta": {
+        "name": "MoreAchievements [Fabric]"
+      }
+    },
+    {
+      "projectID": 561319,
+      "fileID": 3931409,
+      "required": true,
+      "__meta": {
+        "name": "Icy Incitement",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 561625,
+      "fileID": 4063102,
+      "required": true,
+      "__meta": {
+        "name": "Creeper Overhaul",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 563438,
+      "fileID": 3904169,
+      "required": true,
+      "__meta": {
+        "name": "Compressor (Fabric)",
+        "dependencies": [
+          596615
+        ]
+      }
+    },
+    {
+      "projectID": 564244,
+      "fileID": 3925684,
+      "required": true,
+      "__meta": {
+        "name": "The Splash Milk"
+      }
+    },
+    {
+      "projectID": 565956,
+      "fileID": 3966341,
+      "required": true,
+      "__meta": {
+        "name": "TerraBlender (Fabric)",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 566142,
+      "fileID": 4083463,
+      "required": true,
+      "__meta": {
+        "name": "Snowy Spirit",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
+      "projectID": 567580,
+      "fileID": 3683031,
+      "required": true,
+      "__meta": {
+        "name": "[Fabric] Extended Armor Bars Forked"
+      }
+    },
+    {
+      "projectID": 570463,
+      "fileID": 3987879,
+      "required": true,
+      "__meta": {
+        "name": "Ecologics"
+      }
+    },
+    {
+      "projectID": 571503,
+      "fileID": 4020563,
+      "required": true,
+      "__meta": {
+        "name": "Guard Villagers (Fabric/Quilt)",
+        "dependencies": [
+          317121
+        ]
+      }
+    },
+    {
+      "projectID": 576449,
+      "fileID": 4073508,
+      "required": true,
+      "__meta": {
+        "name": "Coxinha Utilities",
+        "dependencies": [
+          388832,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 577468,
+      "fileID": 4035270,
+      "required": true,
+      "__meta": {
+        "name": "Dyed"
+      }
+    },
+    {
+      "projectID": 579937,
+      "fileID": 4052151,
+      "required": true,
+      "__meta": {
+        "name": "Cammie's Minecart Tweaks",
+        "dependencies": [
+          488090,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 580681,
+      "fileID": 3921019,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Armors [Fabric/Forge]"
+      }
+    },
+    {
+      "projectID": 585548,
+      "fileID": 3836367,
+      "required": true,
+      "__meta": {
+        "name": "BisectHosting Server Integration Menu [FABRIC]"
+      }
+    },
+    {
+      "projectID": 590988,
+      "fileID": 4031234,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Bridges (Fabric)",
+        "dependencies": [
+          421649,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 590993,
+      "fileID": 4031232,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Extras (Fabric)",
+        "dependencies": [
+          306612,
+          421649,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 594709,
+      "fileID": 4094104,
+      "required": true,
+      "__meta": {
+        "name": "Luggage"
+      }
+    },
+    {
+      "projectID": 596615,
+      "fileID": 3926780,
+      "required": true,
+      "__meta": {
+        "name": "Chassis",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 596990,
+      "fileID": 4013360,
+      "required": true,
+      "__meta": {
+        "name": "Pyrotastic 🎆"
+      }
+    },
+    {
+      "projectID": 597248,
+      "fileID": 3968426,
+      "required": true,
+      "__meta": {
+        "name": "Duckling",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 597988,
+      "fileID": 3958783,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Professions (REP)",
+        "dependencies": [
+          310111
+        ]
+      }
+    },
+    {
+      "projectID": 601735,
+      "fileID": 4020528,
+      "required": true,
+      "__meta": {
+        "name": "Probably Chests",
+        "dependencies": [
+          348521,
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 602536,
+      "fileID": 3972720,
+      "required": true,
+      "__meta": {
+        "name": "Colorful Azaleas"
+      }
+    },
+    {
+      "projectID": 603970,
+      "fileID": 3927960,
+      "required": true,
+      "__meta": {
+        "name": "Staff of Traveling",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 610492,
+      "fileID": 4034011,
+      "required": true,
+      "__meta": {
+        "name": "Another Furniture"
+      }
+    },
+    {
+      "projectID": 615106,
+      "fileID": 3899940,
+      "required": true,
+      "__meta": {
+        "name": "Lootr (Fabric)",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 615134,
+      "fileID": 4073853,
+      "required": true,
+      "__meta": {
+        "name": "bad packets"
+      }
+    },
+    {
+      "projectID": 615459,
+      "fileID": 3801375,
+      "required": true,
+      "__meta": {
+        "name": "Status Effect Bars",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 618790,
+      "fileID": 4059746,
+      "required": true,
+      "__meta": {
+        "name": "Mine Cells - Dead Cells Mod",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 622112,
+      "fileID": 4058344,
+      "required": true,
+      "__meta": {
+        "name": "MEGA Cells",
+        "dependencies": [
+          223794
+        ]
+      }
+    },
+    {
+      "projectID": 623560,
+      "fileID": 4014378,
+      "required": true,
+      "__meta": {
+        "name": "Log Begone",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 623678,
+      "fileID": 4001771,
+      "required": true,
+      "__meta": {
+        "name": "Auto Workstations (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 623764,
+      "fileID": 4048299,
+      "required": true,
+      "__meta": {
+        "name": "JamLib"
+      }
+    },
+    {
+      "projectID": 623908,
+      "fileID": 4028354,
+      "required": true,
+      "__meta": {
+        "name": "ChoiceTheorem's Overhauled Village"
+      }
+    },
+    {
+      "projectID": 624165,
+      "fileID": 4094672,
+      "required": true,
+      "__meta": {
+        "name": "Create Fabric",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 624390,
+      "fileID": 4094069,
+      "required": true,
+      "__meta": {
+        "name": "Mining Gadgets Fabric"
+      }
+    },
+    {
+      "projectID": 626812,
+      "fileID": 3989666,
+      "required": true,
+      "__meta": {
+        "name": "Better Lily Pads"
+      }
+    },
+    {
+      "projectID": 627986,
+      "fileID": 3930808,
+      "required": true,
+      "__meta": {
+        "name": "Naturalist",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 629153,
+      "fileID": 3923442,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Paths and Pavings",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 631020,
+      "fileID": 4031661,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Desert Temples (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 631403,
+      "fileID": 4031228,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Witch Huts (Fabric)",
+        "dependencies": [
+          348521,
+          306612,
+          421649
+        ]
+      }
+    },
+    {
+      "projectID": 631472,
+      "fileID": 3954148,
+      "required": true,
+      "__meta": {
+        "name": "Bamboo Combat"
+      }
+    },
+    {
+      "projectID": 633483,
+      "fileID": 4019922,
+      "required": true,
+      "__meta": {
+        "name": "Powah! (Rearchitected)",
+        "dependencies": [
+          419699,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 633747,
+      "fileID": 3944264,
+      "required": true,
+      "__meta": {
+        "name": "What The Bucket"
+      }
+    },
+    {
+      "projectID": 633823,
+      "fileID": 4084311,
+      "required": true,
+      "__meta": {
+        "name": "Almost Unified"
+      }
+    },
+    {
+      "projectID": 634062,
+      "fileID": 4082460,
+      "required": true,
+      "__meta": {
+        "name": "No Chat Reports"
+      }
+    },
+    {
+      "projectID": 634546,
+      "fileID": 4055311,
+      "required": true,
+      "__meta": {
+        "name": "Cooking for Blockheads (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 635042,
+      "fileID": 4021216,
+      "required": true,
+      "__meta": {
+        "name": "Ad Astra!",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 636540,
+      "fileID": 4033419,
+      "required": true,
+      "__meta": {
+        "name": "Structory"
+      }
+    },
+    {
+      "projectID": 649882,
+      "fileID": 3925553,
+      "required": true,
+      "__meta": {
+        "name": "Doodads [Fabric]",
+        "dependencies": [
+          341284,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 656453,
+      "fileID": 4095342,
+      "required": true,
+      "__meta": {
+        "name": "Piercing Paxels",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 656526,
+      "fileID": 3945257,
+      "required": true,
+      "__meta": {
+        "name": "Revelationary"
+      }
+    },
+    {
+      "projectID": 659011,
+      "fileID": 4067921,
+      "required": true,
+      "__meta": {
+        "name": "Deeper and Darker",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 659151,
+      "fileID": 3932384,
+      "required": true,
+      "__meta": {
+        "name": "Echoing Depths"
+      }
+    },
+    {
+      "projectID": 659274,
+      "fileID": 4069065,
+      "required": true,
+      "__meta": {
+        "name": "Vitalize",
+        "dependencies": [
+          388172,
+          495509
+        ]
+      }
+    },
+    {
+      "projectID": 662724,
+      "fileID": 3953164,
+      "required": true,
+      "__meta": {
+        "name": "Toast Manager"
+      }
+    },
+    {
+      "projectID": 664356,
+      "fileID": 3963321,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Trades",
+        "dependencies": [
+          310111,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 664937,
+      "fileID": 4028611,
+      "required": true,
+      "__meta": {
+        "name": "Mob Vote 2022 [Fabric] - Sniffer, Rascal, Tuff Golem"
+      }
+    },
+    {
+      "projectID": 665526,
+      "fileID": 4030091,
+      "required": true,
+      "__meta": {
+        "name": "Prism [Fabric]"
+      }
+    },
+    {
+      "projectID": 665532,
+      "fileID": 3963982,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Loot Tables",
+        "dependencies": [
+          308769,
+          310111
+        ]
+      }
+    },
+    {
+      "projectID": 667299,
+      "fileID": 4087063,
+      "required": true,
+      "__meta": {
+        "name": "YetAnotherConfigLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 670011,
+      "fileID": 4010353,
+      "required": true,
+      "__meta": {
+        "name": "Nether Depths Upgrade"
+      }
+    },
+    {
+      "projectID": 682644,
+      "fileID": 4026211,
+      "required": true,
+      "__meta": {
+        "name": "Bushier Flowers"
+      }
+    },
+    {
+      "projectID": 686945,
+      "fileID": 4029788,
+      "required": true,
+      "__meta": {
+        "name": "Sria's Flowers"
+      }
+    },
+    {
+      "projectID": 687082,
+      "fileID": 4029067,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Lootbags"
+      }
+    },
+    {
+      "projectID": 688367,
+      "fileID": 4094403,
+      "required": true,
+      "__meta": {
+        "name": "ME Requester",
+        "dependencies": [
+          223794
+        ]
+      }
+    },
+    {
+      "projectID": 688480,
+      "fileID": 4032019,
+      "required": true,
+      "__meta": {
+        "name": "Extra Thicc Packets"
+      }
+    },
+    {
+      "projectID": 688879,
+      "fileID": 4085732,
+      "required": true,
+      "__meta": {
+        "name": "Reaper",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 689252,
+      "fileID": 4031419,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Ocean Monuments (Fabric)",
+        "dependencies": [
+          306612,
+          348521,
+          421649
+        ]
+      }
+    },
+    {
+      "projectID": 690176,
+      "fileID": 4057706,
+      "required": true,
+      "__meta": {
+        "name": "Bone Zone",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 694475,
+      "fileID": 4083909,
+      "required": true,
+      "__meta": {
+        "name": "Villager Trading Station",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 695850,
+      "fileID": 4069776,
+      "required": true,
+      "__meta": {
+        "name": "Food Effect Tooltips",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 695960,
+      "fileID": 4065482,
+      "required": true,
+      "__meta": {
+        "name": "Trofers - Fabric"
+      }
+    },
+    {
+      "projectID": 696205,
+      "fileID": 4081883,
+      "required": true,
+      "__meta": {
+        "name": "Dark Mode Everywhere - Fabric"
+      }
+    },
+    {
+      "projectID": 701009,
+      "fileID": 4095071,
+      "required": true,
+      "__meta": {
+        "name": "Drink Beer Unofficial: Clockwerk Edition"
+      }
+    },
+    {
+      "projectID": 702654,
+      "fileID": 4091797,
+      "required": true,
+      "__meta": {
+        "name": "Wolf Armor Compat (Fabric)",
+        "dependencies": [
+          375969
+        ]
+      }
+    }
+  ]
+}

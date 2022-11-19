@@ -1,0 +1,42 @@
+{
+  "config": {
+    "features_to_place": [
+      "byg:global/placed_feature/deepslate_ore_generator_antimony",
+      "byg:global/placed_feature/deepslate_ore_generator_bauxite",
+      "byg:global/placed_feature/deepslate_ore_generator_iridium",
+      "byg:global/placed_feature/deepslate_ore_generator_lead",
+      "byg:global/placed_feature/deepslate_ore_generator_lignite_coal",
+      "byg:global/placed_feature/deepslate_ore_generator_mozanite",
+      "byg:global/placed_feature/deepslate_ore_generator_nickel",
+      "byg:global/placed_feature/deepslate_ore_generator_salt",
+      "byg:global/placed_feature/deepslate_ore_generator_tin",
+      "byg:global/placed_feature/deepslate_ore_generator_tungsten",
+      "byg:global/placed_feature/deepslate_ore_generator_uranium",
+      "byg:global/placed_feature/ore_generator_antimony",
+      "byg:global/placed_feature/ore_generator_bauxite",
+      "byg:global/placed_feature/ore_generator_iridium",
+      "byg:global/placed_feature/ore_generator_lead",
+      "byg:global/placed_feature/ore_generator_lignite_coal",
+      "byg:global/placed_feature/ore_generator_mozanite",
+      "byg:global/placed_feature/ore_generator_nickel",
+      "byg:global/placed_feature/ore_generator_salt",
+      "byg:global/placed_feature/ore_generator_tin",
+      "byg:global/placed_feature/ore_generator_tungsten",
+      "byg:global/placed_feature/ore_generator_uranium",
+      "byg:global/placed_feature/azurite_ore",
+      "byg:global/placed_feature/paltaeria_ore",
+      "byg:global/placed_feature/shimmerstone_ore",
+      "byg:global/placed_feature/stratine_ore",
+      "byg:global/placed_feature/galena_ore",
+      "byg:global/placed_feature/ruby_ore",
+      "byg:global/placed_feature/sapphire_ore",
+      "byg:global/placed_feature/sheldonite_ore",
+      "byg:global/placed_feature/sodalite_ore",
+      "byg:global/placed_feature/cinnabar_ore",
+      "byg:global/placed_feature/pyrite_ore",
+      "byg:global/placed_feature/sphalerite_ore",
+      "byg:global/placed_feature/silver_ore"
+    ]
+  },
+  "type": "byg:global"
+}
