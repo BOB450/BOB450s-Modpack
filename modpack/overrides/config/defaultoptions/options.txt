@@ -14,3 +14,7 @@ mipmapLevels:1
 guiScale:3
 autoJump:false
 enableVsync:true
+fov:85
+mouseSensitivity:15
+maxFps:200
+rawMouseInput:true

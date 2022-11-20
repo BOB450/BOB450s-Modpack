@@ -13,7 +13,7 @@
   "manifestVersion": 1,
   "version": "0.1.0",
   "author": "BOB450",
-  "name": "all-of-fabric-6",
+  "name": "BOB450sModpack",
   "files": [
     {
       "projectID": 60089,
@@ -1511,6 +1511,14 @@
       }
     },
     {
+      "projectID": 461710,
+      "fileID": 3983447,
+      "required": true,
+      "__meta": {
+        "name": "Redstone Pen"
+      }
+    },
+    {
       "projectID": 462672,
       "fileID": 3908334,
       "required": true,
@@ -1651,6 +1659,17 @@
       }
     },
     {
+      "projectID": 483348,
+      "fileID": 4032305,
+      "required": true,
+      "__meta": {
+        "name": "The Ghast Cow",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 486080,
       "fileID": 3843501,
       "required": true,
@@ -1689,20 +1708,25 @@
       }
     },
     {
-      "projectID": 492180,
-      "fileID": 3912818,
-      "required": true,
-      "__meta": {
-        "name": "Inspecio"
-      }
-    },
-    {
       "projectID": 495453,
       "fileID": 3515755,
       "required": true,
       "__meta": {
         "name": "Axolotl Bucket Fix",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495476,
+      "fileID": 4041205,
+      "required": true,
+      "__meta": {
+        "name": "Puzzles Lib",
+        "explicit": false,
+        "dependencies": [
+          547434,
           306612
         ]
       }
@@ -1906,6 +1930,19 @@
       }
     },
     {
+      "projectID": 517650,
+      "fileID": 4095954,
+      "required": true,
+      "__meta": {
+        "name": "Mythic Mounts",
+        "dependencies": [
+          393236,
+          306612,
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 517791,
       "fileID": 4023183,
       "required": true,
@@ -1913,18 +1950,6 @@
         "name": "Display Case",
         "dependencies": [
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 517833,
-      "fileID": 3877921,
-      "required": true,
-      "__meta": {
-        "name": "Arcanus: Legacy",
-        "dependencies": [
-          306612,
-          348521
         ]
       }
     },
@@ -1978,12 +2003,36 @@
       }
     },
     {
+      "projectID": 526606,
+      "fileID": 4086460,
+      "required": true,
+      "__meta": {
+        "name": "Collective (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 527334,
       "fileID": 3933807,
       "required": true,
       "__meta": {
         "name": "Language Reload",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 527638,
+      "fileID": 4074105,
+      "required": true,
+      "__meta": {
+        "name": "Villager Names (Fabric Version)",
+        "dependencies": [
+          526606,
           306612
         ]
       }
@@ -2081,14 +2130,6 @@
           665526,
           547434
         ]
-      }
-    },
-    {
-      "projectID": 544671,
-      "fileID": 4077331,
-      "required": true,
-      "__meta": {
-        "name": "Portable Tables"
       }
     },
     {
@@ -2394,6 +2435,14 @@
       }
     },
     {
+      "projectID": 576413,
+      "fileID": 3995943,
+      "required": true,
+      "__meta": {
+        "name": "Creatures From The Snow! [Fabric]"
+      }
+    },
+    {
       "projectID": 576449,
       "fileID": 4073508,
       "required": true,
@@ -2434,6 +2483,17 @@
       }
     },
     {
+      "projectID": 584511,
+      "fileID": 4090409,
+      "required": true,
+      "__meta": {
+        "name": "The Graveyard Biomes (FABRIC)",
+        "dependencies": [
+          565956
+        ]
+      }
+    },
+    {
       "projectID": 585548,
       "fileID": 3836367,
       "required": true,
@@ -2468,11 +2528,36 @@
       }
     },
     {
+      "projectID": 593981,
+      "fileID": 3944881,
+      "required": true,
+      "__meta": {
+        "name": "Magnum Torch",
+        "dependencies": [
+          495476,
+          306612,
+          547434
+        ]
+      }
+    },
+    {
       "projectID": 594709,
       "fileID": 4094104,
       "required": true,
       "__meta": {
         "name": "Luggage"
+      }
+    },
+    {
+      "projectID": 596375,
+      "fileID": 3931393,
+      "required": true,
+      "__meta": {
+        "name": "Halfdoors",
+        "dependencies": [
+          341284,
+          306612
+        ]
       }
     },
     {
@@ -2624,6 +2709,17 @@
         "name": "Cull Less Leaves",
         "dependencies": [
           667299
+        ]
+      }
+    },
+    {
+      "projectID": 620248,
+      "fileID": 4017411,
+      "required": true,
+      "__meta": {
+        "name": "[Fabric] Progressive Bosses",
+        "dependencies": [
+          306612
         ]
       }
     },
