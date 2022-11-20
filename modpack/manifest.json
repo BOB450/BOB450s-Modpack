@@ -12,7 +12,7 @@
   "overrides": "overrides",
   "manifestVersion": 1,
   "version": "0.1.0",
-  "author": "TeamAOF",
+  "author": "BOB450",
   "name": "all-of-fabric-6",
   "files": [
     {
@@ -345,6 +345,17 @@
       }
     },
     {
+      "projectID": 312289,
+      "fileID": 4065167,
+      "required": true,
+      "__meta": {
+        "name": "Blockus",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 314579,
       "fileID": 3972616,
       "required": true,
@@ -611,7 +622,7 @@
     },
     {
       "projectID": 363949,
-      "fileID": 4094594,
+      "fileID": 4095975,
       "required": true,
       "__meta": {
         "name": "The Bumblezone (Quilt/Fabric)",
@@ -793,7 +804,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 4086233,
+      "fileID": 4096665,
       "required": true,
       "__meta": {
         "name": "GeckoLib",
@@ -1164,6 +1175,14 @@
       }
     },
     {
+      "projectID": 415758,
+      "fileID": 3821513,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Boot (Fabric)"
+      }
+    },
+    {
       "projectID": 416294,
       "fileID": 4085694,
       "required": true,
@@ -1201,6 +1220,19 @@
         "name": "YUNG's API (Fabric)",
         "dependencies": [
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 422310,
+      "fileID": 3925603,
+      "required": true,
+      "__meta": {
+        "name": "Conjuring",
+        "dependencies": [
+          393236,
+          348521,
+          532610
         ]
       }
     },
@@ -1657,6 +1689,14 @@
       }
     },
     {
+      "projectID": 492180,
+      "fileID": 3912818,
+      "required": true,
+      "__meta": {
+        "name": "Inspecio"
+      }
+    },
+    {
       "projectID": 495453,
       "fileID": 3515755,
       "required": true,
@@ -1688,7 +1728,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4091548,
+      "fileID": 4096608,
       "required": true,
       "__meta": {
         "name": "Moonlight Lib"
@@ -1877,6 +1917,18 @@
       }
     },
     {
+      "projectID": 517833,
+      "fileID": 3877921,
+      "required": true,
+      "__meta": {
+        "name": "Arcanus: Legacy",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 520367,
       "fileID": 4019432,
       "required": true,
@@ -1921,6 +1973,17 @@
         "dependencies": [
           348521,
           421649,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 527334,
+      "fileID": 3933807,
+      "required": true,
+      "__meta": {
+        "name": "Language Reload",
+        "dependencies": [
           306612
         ]
       }
@@ -2014,7 +2077,7 @@
     },
     {
       "projectID": 544671,
-      "fileID": 4077318,
+      "fileID": 4077331,
       "required": true,
       "__meta": {
         "name": "Portable Tables"
@@ -2186,6 +2249,17 @@
       }
     },
     {
+      "projectID": 559148,
+      "fileID": 4056990,
+      "required": true,
+      "__meta": {
+        "name": "Enchanted Vertical Slabs",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 560091,
       "fileID": 3857252,
       "required": true,
@@ -2252,7 +2326,7 @@
     },
     {
       "projectID": 565956,
-      "fileID": 3966341,
+      "fileID": 4095396,
       "required": true,
       "__meta": {
         "name": "TerraBlender (Fabric)",
@@ -2279,6 +2353,17 @@
       "required": true,
       "__meta": {
         "name": "[Fabric] Extended Armor Bars Forked"
+      }
+    },
+    {
+      "projectID": 570368,
+      "fileID": 4084122,
+      "required": true,
+      "__meta": {
+        "name": "Raised",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -2334,7 +2419,7 @@
     },
     {
       "projectID": 580681,
-      "fileID": 3921019,
+      "fileID": 4095708,
       "required": true,
       "__meta": {
         "name": "Immersive Armors [Fabric/Forge]"
@@ -2445,10 +2530,21 @@
     },
     {
       "projectID": 603970,
-      "fileID": 3927960,
+      "fileID": 3963266,
       "required": true,
       "__meta": {
         "name": "Staff of Traveling",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 606906,
+      "fileID": 3846819,
+      "required": true,
+      "__meta": {
+        "name": "Enchanted Vertical Slabs - BetterEnd Edition",
         "dependencies": [
           306612
         ]
@@ -2495,12 +2591,31 @@
     },
     {
       "projectID": 618790,
-      "fileID": 4059746,
+      "fileID": 4082458,
       "required": true,
       "__meta": {
         "name": "Mine Cells - Dead Cells Mod",
         "dependencies": [
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 618812,
+      "fileID": 3846496,
+      "required": true,
+      "__meta": {
+        "name": "Main Menu Credits"
+      }
+    },
+    {
+      "projectID": 619718,
+      "fileID": 4002520,
+      "required": true,
+      "__meta": {
+        "name": "Cull Less Leaves",
+        "dependencies": [
+          667299
         ]
       }
     },
@@ -2638,7 +2753,7 @@
     },
     {
       "projectID": 633483,
-      "fileID": 4019922,
+      "fileID": 4096467,
       "required": true,
       "__meta": {
         "name": "Powah! (Rearchitected)",
@@ -2685,7 +2800,7 @@
     },
     {
       "projectID": 635042,
-      "fileID": 4021216,
+      "fileID": 4098414,
       "required": true,
       "__meta": {
         "name": "Ad Astra!",
@@ -2735,6 +2850,27 @@
       }
     },
     {
+      "projectID": 656977,
+      "fileID": 4025971,
+      "required": true,
+      "__meta": {
+        "name": "MVS - Moog's Voyager Structures"
+      }
+    },
+    {
+      "projectID": 657052,
+      "fileID": 4062077,
+      "required": true,
+      "__meta": {
+        "name": "CrashBrander",
+        "dependencies": [
+          308702,
+          308769,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 659011,
       "fileID": 4067921,
       "required": true,
@@ -2755,7 +2891,7 @@
     },
     {
       "projectID": 659274,
-      "fileID": 4069065,
+      "fileID": 4098352,
       "required": true,
       "__meta": {
         "name": "Vitalize",
@@ -2833,11 +2969,27 @@
       }
     },
     {
+      "projectID": 681703,
+      "fileID": 4074498,
+      "required": true,
+      "__meta": {
+        "name": "Patbox's Brewery"
+      }
+    },
+    {
       "projectID": 682644,
       "fileID": 4026211,
       "required": true,
       "__meta": {
         "name": "Bushier Flowers"
+      }
+    },
+    {
+      "projectID": 686058,
+      "fileID": 4052393,
+      "required": true,
+      "__meta": {
+        "name": "Nyf's Spiders"
       }
     },
     {
@@ -2877,7 +3029,7 @@
     },
     {
       "projectID": 688879,
-      "fileID": 4085732,
+      "fileID": 4098204,
       "required": true,
       "__meta": {
         "name": "Reaper",
@@ -2958,7 +3110,7 @@
     },
     {
       "projectID": 702654,
-      "fileID": 4091797,
+      "fileID": 4096126,
       "required": true,
       "__meta": {
         "name": "Wolf Armor Compat (Fabric)",
