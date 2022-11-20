@@ -2931,6 +2931,22 @@
       }
     },
     {
+      "projectID": 638535,
+      "fileID": 3867201,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Now Loading"
+      }
+    },
+    {
+      "projectID": 639971,
+      "fileID": 4020552,
+      "required": true,
+      "__meta": {
+        "name": "Apollo's Additional Structures"
+      }
+    },
+    {
       "projectID": 649882,
       "fileID": 3925553,
       "required": true,
