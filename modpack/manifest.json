@@ -2001,6 +2001,14 @@
       }
     },
     {
+      "projectID": 531783,
+      "fileID": 3823600,
+      "required": true,
+      "__meta": {
+        "name": "Infusion Table"
+      }
+    },
+    {
       "projectID": 532610,
       "fileID": 4028921,
       "required": true,
@@ -2796,6 +2804,14 @@
         "dependencies": [
           500525
         ]
+      }
+    },
+    {
+      "projectID": 634942,
+      "fileID": 4074521,
+      "required": true,
+      "__meta": {
+        "name": "Ultris: Boss Expansion"
       }
     },
     {
