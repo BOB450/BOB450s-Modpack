@@ -1047,6 +1047,14 @@
       }
     },
     {
+      "projectID": 404022,
+      "fileID": 4049431,
+      "required": true,
+      "__meta": {
+        "name": "Platypuses"
+      }
+    },
+    {
       "projectID": 405388,
       "fileID": 4082446,
       "required": true,
@@ -2236,6 +2244,18 @@
       "__meta": {
         "name": "Advanced Netherite [FABRIC]",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 549031,
+      "fileID": 4102402,
+      "required": true,
+      "__meta": {
+        "name": "Capybara [Fabric]",
+        "dependencies": [
+          348521,
           306612
         ]
       }
