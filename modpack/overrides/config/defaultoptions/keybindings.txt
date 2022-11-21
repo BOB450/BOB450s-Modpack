@@ -5,8 +5,8 @@ key_key.left:key.keyboard.a:NONE
 key_key.back:key.keyboard.s:NONE
 key_key.right:key.keyboard.d:NONE
 key_key.jump:key.keyboard.space:NONE
-key_key.sneak:key.keyboard.left.control:NONE
-key_key.sprint:key.keyboard.left.shift:NONE
+key_key.sneak:key.keyboard.left.shift:NONE
+key_key.sprint:key.keyboard.left.control:NONE
 key_key.drop:key.keyboard.q:NONE
 key_key.inventory:key.keyboard.e:NONE
 key_key.chat:key.keyboard.t:NONE
@@ -38,7 +38,7 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus:NONE
 key_key.ftbultimine:key.keyboard.grave.accent:NONE
 key_key.adventurez.activatearmor:key.keyboard.v:NONE
 key_key.adventurez.dragonflydown:key.keyboard.left.alt:NONE
-key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent:NONE
+key_key.adventurez.dragonfirebreath:key.keyboard.unknown:NONE
 key_key.ae2.wireless_terminal:key.keyboard.unknown:NONE
 key_key.ae2.portable_item_cell:key.keyboard.unknown:NONE
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown:NONE
@@ -74,9 +74,10 @@ key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
 key_key.findme.search:key.keyboard.y:NONE
 key_key.indrev.modular:key.keyboard.k:NONE
 key_key.indrev.gamer_axe_toggle:key.keyboard.g:NONE
+key_key.antighost.reveal:key.keyboard.unknown:NONE
 key_key.indrev.jetpack_toggle:key.keyboard.j:NONE
 key_key.lightoverlay.enable_overlay:key.keyboard.f7:NONE
-key_keybind.luggage.whistle:key.keyboard.grave.accent:NONE
+key_keybind.luggage.whistle:key.keyboard.unknown:NONE
 key_key.modern_industrialization.activate:key.keyboard.v:NONE
 key_supplementaries.keybind.quiver:key.keyboard.v:NONE
 key_key.nyfsquiver.open_quiver:key.keyboard.b:NONE
