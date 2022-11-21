@@ -3,7 +3,7 @@ incompatibleResourcePacks:["computercraft/overhaul"]
 soundCategory_master:0.50772625
 soundCategory_music:0.15492958
 soundCategory_record:0.5070422
-soundCategory_weather:0.4093897
+soundCategory_weather:0.5093897
 soundCategory_block:0.8028169
 soundCategory_hostile:0.7065728
 soundCategory_neutral:0.7089202
@@ -13,8 +13,4 @@ soundCategory_voice:0.600939
 mipmapLevels:1
 guiScale:3
 autoJump:false
-enableVsync:true
-fov:85
-mouseSensitivity:15
-maxFps:200
-rawMouseInput:true
+enableVsync:false

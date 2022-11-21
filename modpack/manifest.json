@@ -11,9 +11,9 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.0",
-  "author": "BOB450",
-  "name": "BOB450sModpack",
+  "version": "0.1.2",
+  "author": "TeamAOF",
+  "name": "all-of-fabric-6",
   "files": [
     {
       "projectID": 60089,
@@ -141,7 +141,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 4047041,
+      "fileID": 4102070,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions",
@@ -179,14 +179,6 @@
           228525,
           228525
         ]
-      }
-    },
-    {
-      "projectID": 256087,
-      "fileID": 3937913,
-      "required": true,
-      "__meta": {
-        "name": "Notes"
       }
     },
     {
@@ -278,7 +270,7 @@
     },
     {
       "projectID": 306549,
-      "fileID": 4068907,
+      "fileID": 4101954,
       "required": true,
       "__meta": {
         "name": "Tips",
@@ -297,7 +289,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 4066826,
+      "fileID": 4100232,
       "required": true,
       "__meta": {
         "name": "Mod Menu"
@@ -342,17 +334,6 @@
       "required": true,
       "__meta": {
         "name": "Couplings"
-      }
-    },
-    {
-      "projectID": 312289,
-      "fileID": 4065167,
-      "required": true,
-      "__meta": {
-        "name": "Blockus",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -492,7 +473,7 @@
     },
     {
       "projectID": 341284,
-      "fileID": 3820928,
+      "fileID": 4100104,
       "required": true,
       "__meta": {
         "name": "Trinkets (Fabric)"
@@ -573,14 +554,6 @@
       }
     },
     {
-      "projectID": 357540,
-      "fileID": 3903460,
-      "required": true,
-      "__meta": {
-        "name": "Inventory HUD+"
-      }
-    },
-    {
       "projectID": 358304,
       "fileID": 4075314,
       "required": true,
@@ -622,13 +595,13 @@
     },
     {
       "projectID": 363949,
-      "fileID": 4095975,
+      "fileID": 4099622,
       "required": true,
       "__meta": {
         "name": "The Bumblezone (Quilt/Fabric)",
         "dependencies": [
-          306612,
-          488090
+          488090,
+          306612
         ]
       }
     },
@@ -1126,7 +1099,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 4091576,
+      "fileID": 4100718,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1175,14 +1148,6 @@
       }
     },
     {
-      "projectID": 415758,
-      "fileID": 3821513,
-      "required": true,
-      "__meta": {
-        "name": "Smooth Boot (Fabric)"
-      }
-    },
-    {
       "projectID": 416294,
       "fileID": 4085694,
       "required": true,
@@ -1224,19 +1189,6 @@
       }
     },
     {
-      "projectID": 422310,
-      "fileID": 3925603,
-      "required": true,
-      "__meta": {
-        "name": "Conjuring",
-        "dependencies": [
-          393236,
-          348521,
-          532610
-        ]
-      }
-    },
-    {
       "projectID": 422316,
       "fileID": 3345570,
       "required": true,
@@ -1259,8 +1211,8 @@
       "__meta": {
         "name": "DragonLoot",
         "dependencies": [
-          348521,
-          306612
+          306612,
+          348521
         ]
       }
     },
@@ -1511,14 +1463,6 @@
       }
     },
     {
-      "projectID": 461710,
-      "fileID": 3983447,
-      "required": true,
-      "__meta": {
-        "name": "Redstone Pen"
-      }
-    },
-    {
       "projectID": 462672,
       "fileID": 3908334,
       "required": true,
@@ -1588,18 +1532,6 @@
       }
     },
     {
-      "projectID": 473508,
-      "fileID": 3819689,
-      "required": true,
-      "__meta": {
-        "name": "Grim's Transportables",
-        "dependencies": [
-          306612,
-          348521
-        ]
-      }
-    },
-    {
       "projectID": 475358,
       "fileID": 4023319,
       "required": true,
@@ -1659,17 +1591,6 @@
       }
     },
     {
-      "projectID": 483348,
-      "fileID": 4032305,
-      "required": true,
-      "__meta": {
-        "name": "The Ghast Cow",
-        "dependencies": [
-          348521
-        ]
-      }
-    },
-    {
       "projectID": 486080,
       "fileID": 3843501,
       "required": true,
@@ -1714,19 +1635,6 @@
       "__meta": {
         "name": "Axolotl Bucket Fix",
         "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 495476,
-      "fileID": 4041205,
-      "required": true,
-      "__meta": {
-        "name": "Puzzles Lib",
-        "explicit": false,
-        "dependencies": [
-          547434,
           306612
         ]
       }
@@ -1798,17 +1706,6 @@
       "required": true,
       "__meta": {
         "name": "Crafting Tweaks (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 502646,
-      "fileID": 3833576,
-      "required": true,
-      "__meta": {
-        "name": "CraftingCraft (Fabric Edition)",
         "dependencies": [
           500525
         ]
@@ -1889,7 +1786,7 @@
     },
     {
       "projectID": 514468,
-      "fileID": 4092650,
+      "fileID": 4100322,
       "required": true,
       "__meta": {
         "name": "The Graveyard (FABRIC)",
@@ -1926,19 +1823,6 @@
         "name": "Nikolite Expansion",
         "dependencies": [
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 517650,
-      "fileID": 4095954,
-      "required": true,
-      "__meta": {
-        "name": "Mythic Mounts",
-        "dependencies": [
-          393236,
-          306612,
-          388172
         ]
       }
     },
@@ -2003,41 +1887,6 @@
       }
     },
     {
-      "projectID": 526606,
-      "fileID": 4086460,
-      "required": true,
-      "__meta": {
-        "name": "Collective (Fabric)",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 527334,
-      "fileID": 3933807,
-      "required": true,
-      "__meta": {
-        "name": "Language Reload",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 527638,
-      "fileID": 4074105,
-      "required": true,
-      "__meta": {
-        "name": "Villager Names (Fabric Version)",
-        "dependencies": [
-          526606,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 531351,
       "fileID": 3927270,
       "required": true,
@@ -2047,14 +1896,6 @@
           306612,
           306612
         ]
-      }
-    },
-    {
-      "projectID": 531783,
-      "fileID": 3823600,
-      "required": true,
-      "__meta": {
-        "name": "Infusion Table"
       }
     },
     {
@@ -2133,6 +1974,14 @@
       }
     },
     {
+      "projectID": 544671,
+      "fileID": 4077318,
+      "required": true,
+      "__meta": {
+        "name": "Portable Tables"
+      }
+    },
+    {
       "projectID": 544912,
       "fileID": 4063036,
       "required": true,
@@ -2160,17 +2009,6 @@
         "name": "Forge Config API Port",
         "dependencies": [
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 547689,
-      "fileID": 3835114,
-      "required": true,
-      "__meta": {
-        "name": "TrashSlot (Fabric Edition)",
-        "dependencies": [
-          500525
         ]
       }
     },
@@ -2298,17 +2136,6 @@
       }
     },
     {
-      "projectID": 559148,
-      "fileID": 4056990,
-      "required": true,
-      "__meta": {
-        "name": "Enchanted Vertical Slabs",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 560091,
       "fileID": 3857252,
       "required": true,
@@ -2380,7 +2207,6 @@
       "__meta": {
         "name": "TerraBlender (Fabric)",
         "dependencies": [
-          306612,
           306612
         ]
       }
@@ -2405,14 +2231,26 @@
       }
     },
     {
-      "projectID": 570368,
-      "fileID": 4084122,
+      "projectID": 569849,
+      "fileID": 4100569,
       "required": true,
       "__meta": {
-        "name": "Raised",
+        "name": "Hex Casting",
         "dependencies": [
-          306612
+          306612,
+          597824,
+          308769,
+          393236,
+          318449
         ]
+      }
+    },
+    {
+      "projectID": 570073,
+      "fileID": 4100062,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Lib"
       }
     },
     {
@@ -2432,14 +2270,6 @@
         "dependencies": [
           317121
         ]
-      }
-    },
-    {
-      "projectID": 576413,
-      "fileID": 3995943,
-      "required": true,
-      "__meta": {
-        "name": "Creatures From The Snow! [Fabric]"
       }
     },
     {
@@ -2483,17 +2313,6 @@
       }
     },
     {
-      "projectID": 584511,
-      "fileID": 4090409,
-      "required": true,
-      "__meta": {
-        "name": "The Graveyard Biomes (FABRIC)",
-        "dependencies": [
-          565956
-        ]
-      }
-    },
-    {
       "projectID": 585548,
       "fileID": 3836367,
       "required": true,
@@ -2528,36 +2347,11 @@
       }
     },
     {
-      "projectID": 593981,
-      "fileID": 3944881,
-      "required": true,
-      "__meta": {
-        "name": "Magnum Torch",
-        "dependencies": [
-          495476,
-          306612,
-          547434
-        ]
-      }
-    },
-    {
       "projectID": 594709,
       "fileID": 4094104,
       "required": true,
       "__meta": {
         "name": "Luggage"
-      }
-    },
-    {
-      "projectID": 596375,
-      "fileID": 3931393,
-      "required": true,
-      "__meta": {
-        "name": "Halfdoors",
-        "dependencies": [
-          341284,
-          306612
-        ]
       }
     },
     {
@@ -2588,6 +2382,14 @@
         "dependencies": [
           388172
         ]
+      }
+    },
+    {
+      "projectID": 597824,
+      "fileID": 4100643,
+      "required": true,
+      "__meta": {
+        "name": "PAUCAL"
       }
     },
     {
@@ -2622,11 +2424,11 @@
       }
     },
     {
-      "projectID": 606906,
-      "fileID": 3846819,
+      "projectID": 603970,
+      "fileID": 3927960,
       "required": true,
       "__meta": {
-        "name": "Enchanted Vertical Slabs - BetterEnd Edition",
+        "name": "Staff of Traveling",
         "dependencies": [
           306612
         ]
@@ -2673,40 +2475,10 @@
     },
     {
       "projectID": 618790,
-      "fileID": 4082458,
+      "fileID": 4101883,
       "required": true,
       "__meta": {
         "name": "Mine Cells - Dead Cells Mod",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 618812,
-      "fileID": 3846496,
-      "required": true,
-      "__meta": {
-        "name": "Main Menu Credits"
-      }
-    },
-    {
-      "projectID": 619718,
-      "fileID": 4002520,
-      "required": true,
-      "__meta": {
-        "name": "Cull Less Leaves",
-        "dependencies": [
-          667299
-        ]
-      }
-    },
-    {
-      "projectID": 620248,
-      "fileID": 4017411,
-      "required": true,
-      "__meta": {
-        "name": "[Fabric] Progressive Bosses",
         "dependencies": [
           306612
         ]
@@ -2851,8 +2623,8 @@
       "__meta": {
         "name": "Powah! (Rearchitected)",
         "dependencies": [
-          419699,
-          348521
+          348521,
+          419699
         ]
       }
     },
@@ -2892,22 +2664,15 @@
       }
     },
     {
-      "projectID": 634942,
-      "fileID": 4074521,
-      "required": true,
-      "__meta": {
-        "name": "Ultris: Boss Expansion"
-      }
-    },
-    {
       "projectID": 635042,
       "fileID": 4098414,
       "required": true,
       "__meta": {
         "name": "Ad Astra!",
         "dependencies": [
-          348521,
-          306612
+          306612,
+          570073,
+          348521
         ]
       }
     },
@@ -2917,22 +2682,6 @@
       "required": true,
       "__meta": {
         "name": "Structory"
-      }
-    },
-    {
-      "projectID": 638535,
-      "fileID": 3867201,
-      "required": true,
-      "__meta": {
-        "name": "Dungeon Now Loading"
-      }
-    },
-    {
-      "projectID": 639971,
-      "fileID": 4020552,
-      "required": true,
-      "__meta": {
-        "name": "Apollo's Additional Structures"
       }
     },
     {
@@ -2967,27 +2716,6 @@
       }
     },
     {
-      "projectID": 656977,
-      "fileID": 4025971,
-      "required": true,
-      "__meta": {
-        "name": "MVS - Moog's Voyager Structures"
-      }
-    },
-    {
-      "projectID": 657052,
-      "fileID": 4062077,
-      "required": true,
-      "__meta": {
-        "name": "CrashBrander",
-        "dependencies": [
-          308702,
-          308769,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 659011,
       "fileID": 4067921,
       "required": true,
@@ -2999,22 +2727,14 @@
       }
     },
     {
-      "projectID": 659151,
-      "fileID": 3932384,
-      "required": true,
-      "__meta": {
-        "name": "Echoing Depths"
-      }
-    },
-    {
       "projectID": 659274,
       "fileID": 4098352,
       "required": true,
       "__meta": {
         "name": "Vitalize",
         "dependencies": [
-          388172,
-          495509
+          306612,
+          570073
         ]
       }
     },
@@ -3086,27 +2806,11 @@
       }
     },
     {
-      "projectID": 681703,
-      "fileID": 4074498,
-      "required": true,
-      "__meta": {
-        "name": "Patbox's Brewery"
-      }
-    },
-    {
       "projectID": 682644,
       "fileID": 4026211,
       "required": true,
       "__meta": {
         "name": "Bushier Flowers"
-      }
-    },
-    {
-      "projectID": 686058,
-      "fileID": 4052393,
-      "required": true,
-      "__meta": {
-        "name": "Nyf's Spiders"
       }
     },
     {
@@ -3185,6 +2889,17 @@
       "required": true,
       "__meta": {
         "name": "Villager Trading Station",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 694605,
+      "fileID": 4098018,
+      "required": true,
+      "__meta": {
+        "name": "It Takes a Pillage (Fabric)",
         "dependencies": [
           306612
         ]
