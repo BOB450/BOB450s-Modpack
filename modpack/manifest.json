@@ -2622,17 +2622,6 @@
       }
     },
     {
-      "projectID": 603970,
-      "fileID": 3963266,
-      "required": true,
-      "__meta": {
-        "name": "Staff of Traveling",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 606906,
       "fileID": 3846819,
       "required": true,
