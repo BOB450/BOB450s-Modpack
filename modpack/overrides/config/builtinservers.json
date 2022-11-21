@@ -2,12 +2,8 @@
   "badgeVisible": false,
   "builtinServers": [
     {
-      "name": "Europe Central",
-      "address": "aof6eu.alloffabric.com"
-    },
-    {
-      "name": "North America",
-      "address": "aof6na.alloffabric.com"
+      "name": "BOBs SMP",
+        "address": "75.166.28.125:25565"
     }
   ]
 }
