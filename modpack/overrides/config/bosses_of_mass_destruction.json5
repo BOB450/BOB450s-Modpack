@@ -1,7 +1,7 @@
 {
 	"lichConfig": {
 		"eternalNighttime": true,
-		"experienceDrop": 1500,
+		"experienceDrop": 15000,
 		"idleHealingPerTick": 0.20000000298023224,
 		"health": 300.0,
 		"missile": {
@@ -45,7 +45,7 @@
 		"armor": 14.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"experienceDrop": 10000,
 		"spawnPillarOnDeath": true,
 		"anvilAttackExplosionStrength": 4.0,
 		"arenaGeneration": {
@@ -60,7 +60,7 @@
 		"armor": 8.0,
 		"attack": 16.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"experienceDrop": 10000,
 		"spawnAncientDebrisOnDeath": true,
 		"energizedPunchExplosionSize": 4.5,
 		"normalPunchExplosionMultiplier": 1.5,
@@ -75,7 +75,7 @@
 		"armor": 4.0,
 		"attack": 12.0,
 		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"experienceDrop": 10000,
 		"arenaGeneration": {
 			"generationSpacing": 64,
 			"generationSeparation": 24,
