@@ -147,6 +147,6 @@ mainMenu {
 
         texture = file("config/slightguimodifications/discord_button.png")
         hoveredTexture = file("config/slightguimodifications/discord_button_hovered.png")
-        onClicked = url("https://discord.gg/6rkdm48")
+        onClicked = url("https://discord.gg/PzjdhrhH")
     }
 }
