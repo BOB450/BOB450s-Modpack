@@ -13,4 +13,8 @@ soundCategory_voice:0.600939
 mipmapLevels:1
 guiScale:3
 autoJump:false
-enableVsync:false
+enableVsync:true
+fullscreen:true
+mouseSensitivity:.32
+fov:80
+maxFps:240
