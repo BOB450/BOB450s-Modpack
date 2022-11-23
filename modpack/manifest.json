@@ -2233,6 +2233,18 @@
       }
     },
     {
+      "projectID": 549031,
+      "fileID": 4104265,
+      "required": true,
+      "__meta": {
+        "name": "Capybara [Fabric]",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 552758,
       "fileID": 3995925,
       "required": true,
