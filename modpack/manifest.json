@@ -1183,14 +1183,6 @@
       }
     },
     {
-      "projectID": 415758,
-      "fileID": 3821513,
-      "required": true,
-      "__meta": {
-        "name": "Smooth Boot (Fabric)"
-      }
-    },
-    {
       "projectID": 416294,
       "fileID": 4085694,
       "required": true,
