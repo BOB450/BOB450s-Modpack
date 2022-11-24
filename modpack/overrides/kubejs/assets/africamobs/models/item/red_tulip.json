@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { 
+    "layer0": "minecraft:block/red_tulip"
+  },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":762893}, "model": "block/ostrich_egg"},
+		{"predicate": {"custom_model_data":1648234}, "model": "block/babyostrichwalk"},
+		{"predicate": {"custom_model_data":47281747}, "model": "block/baby_ostrich"},
+		{"predicate": {"custom_model_data":473828468}, "model": "block/elephantshrew"}
+	]
+}

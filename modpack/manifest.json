@@ -408,6 +408,17 @@
       }
     },
     {
+      "projectID": 320778,
+      "fileID": 4102823,
+      "required": true,
+      "__meta": {
+        "name": "Glassential (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 325471,
       "fileID": 3885990,
       "required": true,
@@ -2288,6 +2299,17 @@
       }
     },
     {
+      "projectID": 559148,
+      "fileID": 4056990,
+      "required": true,
+      "__meta": {
+        "name": "Enchanted Vertical Slabs",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 560091,
       "fileID": 3857252,
       "required": true,
@@ -2433,6 +2455,14 @@
         "dependencies": [
           317121
         ]
+      }
+    },
+    {
+      "projectID": 576413,
+      "fileID": 3995943,
+      "required": true,
+      "__meta": {
+        "name": "Creatures From The Snow! [Fabric]"
       }
     },
     {
@@ -3102,7 +3132,7 @@
     },
     {
       "projectID": 687082,
-      "fileID": 4029067,
+      "fileID": 4109812,
       "required": true,
       "__meta": {
         "name": "Resourceful Lootbags"
