@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.5",
+  "version": "1.0",
   "author": "BOB450",
   "name": "BOB450s ModPack",
   "files": [
@@ -258,6 +258,14 @@
           419699,
           419699
         ]
+      }
+    },
+    {
+      "projectID": 300331,
+      "fileID": 3896576,
+      "required": true,
+      "__meta": {
+        "name": "Simply Light"
       }
     },
     {
@@ -966,6 +974,14 @@
       }
     },
     {
+      "projectID": 399679,
+      "fileID": 3345208,
+      "required": true,
+      "__meta": {
+        "name": "Lapis Reserve"
+      }
+    },
+    {
       "projectID": 400619,
       "fileID": 4077255,
       "required": true,
@@ -1374,6 +1390,17 @@
       }
     },
     {
+      "projectID": 443694,
+      "fileID": 4051579,
+      "required": true,
+      "__meta": {
+        "name": "Enhanced Celestials(Fabric) - Blood Moons & Harvest Moons",
+        "dependencies": [
+          693313
+        ]
+      }
+    },
+    {
       "projectID": 445838,
       "fileID": 3930081,
       "required": true,
@@ -1461,6 +1488,19 @@
       }
     },
     {
+      "projectID": 458048,
+      "fileID": 4026714,
+      "required": true,
+      "__meta": {
+        "name": "Diagonal Fences",
+        "dependencies": [
+          495476,
+          306612,
+          547434
+        ]
+      }
+    },
+    {
       "projectID": 459496,
       "fileID": 3957480,
       "required": true,
@@ -1526,6 +1566,18 @@
       "required": true,
       "__meta": {
         "name": "ARRP"
+      }
+    },
+    {
+      "projectID": 465336,
+      "fileID": 4065460,
+      "required": true,
+      "__meta": {
+        "name": "Terrarian Slimes",
+        "dependencies": [
+          306612,
+          308769
+        ]
       }
     },
     {
@@ -1657,6 +1709,17 @@
       }
     },
     {
+      "projectID": 486971,
+      "fileID": 3951132,
+      "required": true,
+      "__meta": {
+        "name": "VoidZ",
+        "dependencies": [
+          390991
+        ]
+      }
+    },
+    {
       "projectID": 488090,
       "fileID": 4059589,
       "required": true,
@@ -1673,6 +1736,18 @@
       "required": true,
       "__meta": {
         "name": "FuelInfo",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495191,
+      "fileID": 4090904,
+      "required": true,
+      "__meta": {
+        "name": "BCLib",
+        "explicit": false,
         "dependencies": [
           306612
         ]
@@ -1855,6 +1930,17 @@
         "name": "The Graveyard (FABRIC)",
         "dependencies": [
           388172
+        ]
+      }
+    },
+    {
+      "projectID": 514734,
+      "fileID": 3955434,
+      "required": true,
+      "__meta": {
+        "name": "Data Attributes",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -2133,6 +2219,18 @@
         "dependencies": [
           306612,
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 546590,
+      "fileID": 3946862,
+      "required": true,
+      "__meta": {
+        "name": "Eden Ring",
+        "dependencies": [
+          306612,
+          495191
         ]
       }
     },
@@ -2922,6 +3020,14 @@
       }
     },
     {
+      "projectID": 639584,
+      "fileID": 4059523,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Paintings [Fabric/Forge]"
+      }
+    },
+    {
       "projectID": 639971,
       "fileID": 4020552,
       "required": true,
@@ -3193,6 +3299,15 @@
         "dependencies": [
           228525
         ]
+      }
+    },
+    {
+      "projectID": 693313,
+      "fileID": 4057478,
+      "required": true,
+      "__meta": {
+        "name": "CorgiLib",
+        "explicit": false
       }
     },
     {
