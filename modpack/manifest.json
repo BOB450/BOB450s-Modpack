@@ -408,17 +408,6 @@
       }
     },
     {
-      "projectID": 320778,
-      "fileID": 4102823,
-      "required": true,
-      "__meta": {
-        "name": "Glassential (Fabric)",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 325471,
       "fileID": 3885990,
       "required": true,
@@ -762,17 +751,6 @@
       "required": true,
       "__meta": {
         "name": "Stronger Snowballs"
-      }
-    },
-    {
-      "projectID": 378646,
-      "fileID": 3930984,
-      "required": true,
-      "__meta": {
-        "name": "Macaw's Doors",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -2310,17 +2288,6 @@
       }
     },
     {
-      "projectID": 559148,
-      "fileID": 4056990,
-      "required": true,
-      "__meta": {
-        "name": "Enchanted Vertical Slabs",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 560091,
       "fileID": 3857252,
       "required": true,
@@ -2469,14 +2436,6 @@
       }
     },
     {
-      "projectID": 576413,
-      "fileID": 3995943,
-      "required": true,
-      "__meta": {
-        "name": "Creatures From The Snow! [Fabric]"
-      }
-    },
-    {
       "projectID": 576449,
       "fileID": 4073508,
       "required": true,
@@ -2494,14 +2453,6 @@
       "required": true,
       "__meta": {
         "name": "Dyed"
-      }
-    },
-    {
-      "projectID": 580681,
-      "fileID": 4095708,
-      "required": true,
-      "__meta": {
-        "name": "Immersive Armors [Fabric/Forge]"
       }
     },
     {
@@ -2571,18 +2522,6 @@
       }
     },
     {
-      "projectID": 596375,
-      "fileID": 3931393,
-      "required": true,
-      "__meta": {
-        "name": "Halfdoors",
-        "dependencies": [
-          341284,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 596615,
       "fileID": 3926780,
       "required": true,
@@ -2649,17 +2588,6 @@
       "required": true,
       "__meta": {
         "name": "Colorful Azaleas"
-      }
-    },
-    {
-      "projectID": 606906,
-      "fileID": 3846819,
-      "required": true,
-      "__meta": {
-        "name": "Enchanted Vertical Slabs - BetterEnd Edition",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
