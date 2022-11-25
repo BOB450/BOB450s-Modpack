@@ -2517,17 +2517,6 @@
       }
     },
     {
-      "projectID": 564941,
-      "fileID": 3903009,
-      "required": true,
-      "__meta": {
-        "name": "Show Me What You Got",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 565956,
       "fileID": 4095396,
       "required": true,
