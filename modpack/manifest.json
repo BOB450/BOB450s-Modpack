@@ -3110,19 +3110,6 @@
       }
     },
     {
-      "projectID": 639842,
-      "fileID": 4046678,
-      "required": true,
-      "__meta": {
-        "name": "Better Combat [Fabric & Forge]",
-        "dependencies": [
-          348521,
-          306612,
-          658587
-        ]
-      }
-    },
-    {
       "projectID": 639971,
       "fileID": 4020552,
       "required": true,
@@ -3183,15 +3170,6 @@
       "required": true,
       "__meta": {
         "name": "MVS - Moog's Voyager Structures"
-      }
-    },
-    {
-      "projectID": 658587,
-      "fileID": 4091363,
-      "required": true,
-      "__meta": {
-        "name": "playerAnimator",
-        "explicit": false
       }
     },
     {
