@@ -230,6 +230,19 @@
       }
     },
     {
+      "projectID": 281715,
+      "fileID": 4023021,
+      "required": true,
+      "__meta": {
+        "name": "Leave My Bars Alone",
+        "dependencies": [
+          547434,
+          495476,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 281993,
       "fileID": 4019894,
       "required": true,
@@ -488,6 +501,17 @@
       "required": true,
       "__meta": {
         "name": "Dynamic FPS",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 339575,
+      "fileID": 4026479,
+      "required": true,
+      "__meta": {
+        "name": "Diagonal Panes",
         "dependencies": [
           306612
         ]
@@ -1270,6 +1294,18 @@
       }
     },
     {
+      "projectID": 430445,
+      "fileID": 3971956,
+      "required": true,
+      "__meta": {
+        "name": "Consistency+",
+        "dependencies": [
+          419699,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 431135,
       "fileID": 3956142,
       "required": true,
@@ -1739,6 +1775,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 492246,
+      "fileID": 3943054,
+      "required": true,
+      "__meta": {
+        "name": "Max Health Fix"
       }
     },
     {
@@ -2473,6 +2517,17 @@
       }
     },
     {
+      "projectID": 564941,
+      "fileID": 3903009,
+      "required": true,
+      "__meta": {
+        "name": "Show Me What You Got",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 565956,
       "fileID": 4095396,
       "required": true,
@@ -2629,6 +2684,14 @@
       }
     },
     {
+      "projectID": 591924,
+      "fileID": 3860567,
+      "required": true,
+      "__meta": {
+        "name": "Player Health Indicators"
+      }
+    },
+    {
       "projectID": 593981,
       "fileID": 3944881,
       "required": true,
@@ -2639,6 +2702,14 @@
           306612,
           547434
         ]
+      }
+    },
+    {
+      "projectID": 594044,
+      "fileID": 3722046,
+      "required": true,
+      "__meta": {
+        "name": "Better Loading Screen"
       }
     },
     {
@@ -2716,6 +2787,17 @@
       "required": true,
       "__meta": {
         "name": "Colorful Azaleas"
+      }
+    },
+    {
+      "projectID": 603972,
+      "fileID": 4102919,
+      "required": true,
+      "__meta": {
+        "name": "Quality of Life (QoL) Fixes",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -2890,6 +2972,17 @@
       }
     },
     {
+      "projectID": 628539,
+      "fileID": 4088549,
+      "required": true,
+      "__meta": {
+        "name": "Every Compat (Wood Good)",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
       "projectID": 629153,
       "fileID": 3923442,
       "required": true,
@@ -3028,11 +3121,32 @@
       }
     },
     {
+      "projectID": 639842,
+      "fileID": 4046678,
+      "required": true,
+      "__meta": {
+        "name": "Better Combat [Fabric & Forge]",
+        "dependencies": [
+          348521,
+          306612,
+          658587
+        ]
+      }
+    },
+    {
       "projectID": 639971,
       "fileID": 4020552,
       "required": true,
       "__meta": {
         "name": "Apollo's Additional Structures"
+      }
+    },
+    {
+      "projectID": 643052,
+      "fileID": 3942300,
+      "required": true,
+      "__meta": {
+        "name": "Mixin Conflict Helper"
       }
     },
     {
@@ -3080,6 +3194,15 @@
       "required": true,
       "__meta": {
         "name": "MVS - Moog's Voyager Structures"
+      }
+    },
+    {
+      "projectID": 658587,
+      "fileID": 4091363,
+      "required": true,
+      "__meta": {
+        "name": "playerAnimator",
+        "explicit": false
       }
     },
     {
@@ -3210,6 +3333,19 @@
       "required": true,
       "__meta": {
         "name": "Patbox's Brewery"
+      }
+    },
+    {
+      "projectID": 682565,
+      "fileID": 4012470,
+      "required": true,
+      "__meta": {
+        "name": "Distinguished Potions",
+        "dependencies": [
+          306612,
+          495476,
+          547434
+        ]
       }
     },
     {
@@ -3349,6 +3485,14 @@
       "required": true,
       "__meta": {
         "name": "Trofers - Fabric"
+      }
+    },
+    {
+      "projectID": 696155,
+      "fileID": 4063141,
+      "required": true,
+      "__meta": {
+        "name": "TimeoutAgent"
       }
     },
     {
