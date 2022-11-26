@@ -1,2 +1,0 @@
-execute at @e[tag=elephant,limit=1,sort=nearest] if block ~ ~6 ~ acacia_leaves run tag @e[tag=emod,limit=1,sort=nearest] add eating
-execute at @e[tag=elephant,limit=1,sort=nearest] if block ~ ~6 ~ acacia_leaves run tag @e[tag=elephant,limit=1,sort=nearest] add hasEaten

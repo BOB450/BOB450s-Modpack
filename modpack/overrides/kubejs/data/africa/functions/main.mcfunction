@@ -1,9 +1,0 @@
-function africa:elephant/elephantmain
-function africa:lion/lionmain
-function africa:meerkat/meerkatmain
-function africa:elephant/babyelephantmain
-function africa:jerboa/jerboamain
-function africa:ostrich/ostrichmain
-function africa:ostrich/babyostrichmain
-function africa:camel/camelmain
-function africa:shrew/shrewmain
