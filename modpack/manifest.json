@@ -110,17 +110,6 @@
       }
     },
     {
-      "projectID": 247357,
-      "fileID": 4046633,
-      "required": true,
-      "__meta": {
-        "name": "Extra Alchemy",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 248787,
       "fileID": 3927567,
       "required": true,
