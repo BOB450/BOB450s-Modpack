@@ -16,5 +16,5 @@ autoJump:false
 enableVsync:true
 fullscreen:true
 mouseSensitivity:.32
-fov:80
+fov:85
 maxFps:240

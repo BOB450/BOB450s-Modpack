@@ -27,7 +27,7 @@ mainMenu {
             }
         }
 
-        text = literal("All of Fabric 6 - 0.1.5")
+        text = literal("BOB450's Modpack - 0.1.5")
         shadow = true
     }
 

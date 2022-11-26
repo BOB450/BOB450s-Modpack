@@ -2149,7 +2149,7 @@
 		{
 			x: 2.0d
 			y: 2.5d
-			subtitle: "No, this is All of Fabric."
+			subtitle: "No, this is BOB450s Modpack."
 			dependencies: [
 				"53D538AC2AA15316"
 				"1C705A0B7E050B54"

@@ -3,13 +3,13 @@
 	group: ""
 	order_index: 0
 	filename: "getting_started"
-	title: "Getting Started"
+	title: "Getting Started With BOB's Pack"
 	icon: "portable_tables:portable_crafting_table"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "&eWelcome to All of Fabric 6"
+			title: "&eWelcome to BOB450's ModPack"
 			icon: "kubejs:aof6_logo"
 			x: 7.5d
 			y: 2.0d
@@ -18,7 +18,7 @@
 			description: [
 				"&bThis chapter &rwill &6introduce &ryou to the basics of the pack."
 				""
-				"&eAll of Fabric 6 &roffers the following:"
+				"&eBOB450s ModPack &roffers the following:"
 				""
 				"- &bChallenges"
 				"- &bLearning Mods"
@@ -31,7 +31,7 @@
 			tasks: [{
 				id: "25B2DFAFD351900E"
 				type: "checkmark"
-				title: "Welcome to All of Fabric 6"
+				title: "Welcome to BOB450's ModPack"
 				icon: "kubejs:aof6_logo"
 				disable_toast: true
 			}]
