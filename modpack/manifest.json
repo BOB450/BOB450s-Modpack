@@ -2694,14 +2694,6 @@
       }
     },
     {
-      "projectID": 594044,
-      "fileID": 3722046,
-      "required": true,
-      "__meta": {
-        "name": "Better Loading Screen"
-      }
-    },
-    {
       "projectID": 594709,
       "fileID": 4094104,
       "required": true,
