@@ -78,8 +78,8 @@ mainMenu {
         height = 20
         align = "center"
 
-        text = literal("Rent A Server")
-        onClicked = url("https://www.bisecthosting.com/AOF")
+        text = literal("Rowan Is Cool")
+        onClicked = url("")
     }
     
     /*
